@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pushpak Pathe</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<div 
-  <img align="right" width="40%" src ="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240221T213946Z&X-Amz-Expires=300&X-Amz-Signature=d477805ffa68b430c3d8a7479540411becedeeb8db819f5901b223c3e05c35df&X-Amz-SignedHeaders=host&actor_id=118721295&key_id=0&repo_id=588181932"
+<div>
+  <img align="right" width="40%" src ="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240221T213946Z&X-Amz-Expires=300&X-Amz-Signature=d477805ffa68b430c3d8a7479540411becedeeb8db819f5901b223c3e05c35df&X-Amz-SignedHeaders=host&actor_id=118721295&key_id=0&repo_id=588181932">
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pushpak003&label=Profile%20views&color=0e75b6&style=flat" alt="Pushpak003" /> </p>
