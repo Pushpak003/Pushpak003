@@ -45,7 +45,8 @@
 
 <a href="https://twitter.com/PathePushpak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+</a> <a href="https://instagram.com/pushpakk_03" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
-<a href="https://instagram.com/pushpakk_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushpakk_03" height="30" width="40" /></a>
 </div>
 
