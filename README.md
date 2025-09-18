@@ -62,7 +62,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:pushpakpathe@example.com" target="_blank">
+  <a href="mailto:pushpakpathe63@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Email" height="40" width="40" />
   </a>
 </p>
