@@ -66,4 +66,3 @@
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Email" height="40" width="40" />
   </a>
 </p>
-
